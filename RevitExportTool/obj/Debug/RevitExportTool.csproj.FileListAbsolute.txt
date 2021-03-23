@@ -1,0 +1,15 @@
+E:\MyRevit\RevitExportTool\bin\Debug\RevitExportTool.exe.config
+E:\MyRevit\RevitExportTool\bin\Debug\RevitExportTool.exe
+E:\MyRevit\RevitExportTool\bin\Debug\RevitExportTool.pdb
+E:\MyRevit\RevitExportTool\obj\Debug\RevitExportTool.csprojAssemblyReference.cache
+E:\MyRevit\RevitExportTool\obj\Debug\App.g.cs
+E:\MyRevit\RevitExportTool\obj\Debug\RevitExportTool_MarkupCompile.cache
+E:\MyRevit\RevitExportTool\obj\Debug\RevitExportTool_MarkupCompile.lref
+E:\MyRevit\RevitExportTool\obj\Debug\RevitExportTool.g.resources
+E:\MyRevit\RevitExportTool\obj\Debug\RevitExportTool.Properties.Resources.resources
+E:\MyRevit\RevitExportTool\obj\Debug\RevitExportTool.csproj.GenerateResource.cache
+E:\MyRevit\RevitExportTool\obj\Debug\RevitExportTool.csproj.CoreCompileInputs.cache
+E:\MyRevit\RevitExportTool\obj\Debug\RevitExportTool.exe
+E:\MyRevit\RevitExportTool\obj\Debug\RevitExportTool.pdb
+E:\MyRevit\RevitExportTool\obj\Debug\View\RevitExportView.g.cs
+E:\MyRevit\RevitExportTool\obj\Debug\View\RevitExportView.baml

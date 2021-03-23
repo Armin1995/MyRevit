@@ -1,0 +1,14 @@
+E:\MyRevit\RevitTest\bin\Debug\RevitTest.dll
+E:\MyRevit\RevitTest\bin\Debug\RevitTest.pdb
+E:\MyRevit\RevitTest\bin\Debug\RevitAPI.dll
+E:\MyRevit\RevitTest\bin\Debug\RevitAPIUI.dll
+E:\MyRevit\RevitTest\bin\Debug\AdWindows.dll
+E:\MyRevit\RevitTest\bin\Debug\UIFramework.dll
+E:\MyRevit\RevitTest\bin\Debug\UIFrameworkServices.dll
+E:\MyRevit\RevitTest\bin\Debug\RevitAPI.xml
+E:\MyRevit\RevitTest\bin\Debug\RevitAPIUI.xml
+E:\MyRevit\RevitTest\obj\Debug\RevitTest.csprojAssemblyReference.cache
+E:\MyRevit\RevitTest\obj\Debug\RevitTest.csproj.CoreCompileInputs.cache
+E:\MyRevit\RevitTest\obj\Debug\RevitTest.csproj.CopyComplete
+E:\MyRevit\RevitTest\obj\Debug\RevitTest.dll
+E:\MyRevit\RevitTest\obj\Debug\RevitTest.pdb
