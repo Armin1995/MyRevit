@@ -1,0 +1,6 @@
+E:\MyRevit\DetailMaterialEntityClass\obj\Debug\DetailMaterialEntityClass.csprojAssemblyReference.cache
+E:\MyRevit\DetailMaterialEntityClass\obj\Debug\DetailMaterialEntityClass.csproj.CoreCompileInputs.cache
+E:\MyRevit\DetailMaterialEntityClass\bin\Debug\DetailMaterialEntityClass.dll
+E:\MyRevit\DetailMaterialEntityClass\bin\Debug\DetailMaterialEntityClass.pdb
+E:\MyRevit\DetailMaterialEntityClass\obj\Debug\DetailMaterialEntityClass.dll
+E:\MyRevit\DetailMaterialEntityClass\obj\Debug\DetailMaterialEntityClass.pdb
