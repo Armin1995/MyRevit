@@ -1,7 +1,6 @@
 E:\MyRevit\Test\Test\bin\Debug\Test.exe.config
 E:\MyRevit\Test\Test\bin\Debug\Test.exe
 E:\MyRevit\Test\Test\bin\Debug\Test.pdb
-E:\MyRevit\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
 E:\MyRevit\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 E:\MyRevit\Test\Test\obj\Debug\Test.exe
 E:\MyRevit\Test\Test\obj\Debug\Test.pdb

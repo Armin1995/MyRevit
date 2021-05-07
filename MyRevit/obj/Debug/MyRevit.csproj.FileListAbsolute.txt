@@ -1,0 +1,13 @@
+E:\MyRevit\MyRevit\bin\Debug\MyRevit.dll
+E:\MyRevit\MyRevit\bin\Debug\MyRevit.pdb
+E:\MyRevit\MyRevit\bin\Debug\RevitAPI.dll
+E:\MyRevit\MyRevit\bin\Debug\RevitAPIUI.dll
+E:\MyRevit\MyRevit\bin\Debug\AdWindows.dll
+E:\MyRevit\MyRevit\bin\Debug\UIFramework.dll
+E:\MyRevit\MyRevit\bin\Debug\UIFrameworkServices.dll
+E:\MyRevit\MyRevit\bin\Debug\RevitAPI.xml
+E:\MyRevit\MyRevit\bin\Debug\RevitAPIUI.xml
+E:\MyRevit\MyRevit\obj\Debug\MyRevit.csproj.CoreCompileInputs.cache
+E:\MyRevit\MyRevit\obj\Debug\MyRevit.csproj.CopyComplete
+E:\MyRevit\MyRevit\obj\Debug\MyRevit.dll
+E:\MyRevit\MyRevit\obj\Debug\MyRevit.pdb

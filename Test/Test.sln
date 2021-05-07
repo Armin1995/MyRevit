@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitTest", "..\RevitTest\R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitExportTool", "..\RevitExportTool\RevitExportTool.csproj", "{4D60B8FE-DF2F-42CE-9A28-5237901AC4B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRevit", "..\MyRevit\MyRevit.csproj", "{028A8D43-9D9F-4CA1-B741-41504D916C11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4D60B8FE-DF2F-42CE-9A28-5237901AC4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D60B8FE-DF2F-42CE-9A28-5237901AC4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D60B8FE-DF2F-42CE-9A28-5237901AC4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028A8D43-9D9F-4CA1-B741-41504D916C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028A8D43-9D9F-4CA1-B741-41504D916C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028A8D43-9D9F-4CA1-B741-41504D916C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028A8D43-9D9F-4CA1-B741-41504D916C11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

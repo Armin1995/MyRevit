@@ -40,18 +40,23 @@ namespace RevitExportTool.ViewModel
         #endregion
 
         #region Command
-        public ICommand SelectRevitFileCommand { get; set; }
+        public RelayCommand SelectRevitFileCommand { get; set; }
         #endregion
 
         #region 方法
         public void InitData()
         {
-            //SelectRevitFileCommand = new Command();
+            SelectRevitFileCommand = new RelayCommand(o => this.SelectRevitFile());
         }
 
         public void ClearData()
         {
 
+        }
+
+        public void SelectRevitFile()
+        {
+            RevitFilePath = "123";
         }
         #endregion
     }
